@@ -1,0 +1,6 @@
+{
+  "name": "Unblocked Games Hub",
+  "description": "An elegant, fast, and unblocked portal to play classic arcade, puzzle, and retro web games inside clean iframe containers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

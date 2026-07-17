@@ -1,0 +1,149 @@
+[
+  {
+    "id": "pacman",
+    "title": "Google Pac-Man",
+    "description": "The classic arcade game. Guide Pac-Man through the maze, eat all the dots, and avoid the colorful ghosts!",
+    "longDescription": "Relive the legendary 1980s arcade phenomenon. Navigate Pac-Man through the iconic maze to devour pac-dots and fruit while evading the relentless ghosts: Blinky, Pinky, Inky, and Clyde. Grab power pellets to temporarily turn the tables and gobble up the vulnerable blue ghosts for massive bonus points.",
+    "controls": [
+      { "key": "Arrow Keys / WASD", "action": "Move Pac-Man Up, Down, Left, or Right" },
+      { "key": "P", "action": "Pause Game" }
+    ],
+    "category": "Retro",
+    "iframeUrl": "https://macek.github.io/google_pacman/",
+    "themeColor": "from-yellow-400 to-amber-600",
+    "glowColor": "rgba(234, 179, 8, 0.4)",
+    "difficulty": "Medium",
+    "iconName": "Ghost",
+    "rating": 4.9,
+    "releaseYear": 1980
+  },
+  {
+    "id": "2048",
+    "title": "2048",
+    "description": "Slide matching numbers together to double their value. Can you reach the elusive 2048 tile?",
+    "longDescription": "A highly addictive, mathematically elegant sliding block puzzle game. Your goal is to combine numbered tiles on a grid to create a tile with the number 2048. When two tiles with the same number touch, they merge into one with double the value. Plan your moves ahead so you don't run out of empty grid spots!",
+    "controls": [
+      { "key": "Arrow Keys / WASD", "action": "Slide all tiles in that direction" },
+      { "key": "R", "action": "Restart puzzle" }
+    ],
+    "category": "Puzzle",
+    "iframeUrl": "https://gabrielecirulli.github.io/2048/",
+    "themeColor": "from-orange-400 to-rose-600",
+    "glowColor": "rgba(244, 63, 94, 0.4)",
+    "difficulty": "Easy",
+    "iconName": "Grid3X3",
+    "rating": 4.7,
+    "releaseYear": 2014
+  },
+  {
+    "id": "hextris",
+    "title": "Hextris",
+    "description": "A fast-paced, multi-directional block-stacking puzzle. Spin the hexagon to match colored falling blocks.",
+    "longDescription": "Hextris is a frantic, high-octane twist on classic block-matching puzzles. Instead of falling into a single flat well, blocks descend towards a central hexagon. You must rotate the hexagon to align incoming blocks of the same color. Clear lines of three or more adjacent matching colored blocks before they stack outside the outer gray hexagon boundary!",
+    "controls": [
+      { "key": "Left / Right Arrows", "action": "Rotate the central hexagon left or right" },
+      { "key": "A / D", "action": "Rotate left or right (alternative)" },
+      { "key": "Spacebar", "action": "Drop blocks instantly" }
+    ],
+    "category": "Puzzle",
+    "iframeUrl": "https://hextris.github.io/hextris/",
+    "themeColor": "from-purple-500 to-indigo-600",
+    "glowColor": "rgba(139, 92, 246, 0.4)",
+    "difficulty": "Hard",
+    "iconName": "Hexagon",
+    "rating": 4.8,
+    "releaseYear": 2015
+  },
+  {
+    "id": "flappybird",
+    "title": "Flappy Bird",
+    "description": "Flap your wings, defy gravity, and guide the clumsy bird through endless narrow pipes without crashing.",
+    "longDescription": "A retro arcade-style side-scrolling phenomenon that tests your reflexes and patience. Tap or click to flap the little bird's wings and gain vertical lift. Carefully navigate through endless sequences of green pipes of random heights. Every successful gate cleared increases your score by one. A single collision ends your flight immediately!",
+    "controls": [
+      { "key": "Spacebar / Click", "action": "Flap wings to fly upward" },
+      { "key": "Enter / Click", "action": "Start / Restart game" }
+    ],
+    "category": "Arcade",
+    "iframeUrl": "https://mxwll.github.io/flappy-bird/",
+    "themeColor": "from-teal-400 to-emerald-600",
+    "glowColor": "rgba(16, 185, 129, 0.4)",
+    "difficulty": "Hard",
+    "iconName": "Bird",
+    "rating": 4.5,
+    "releaseYear": 2013
+  },
+  {
+    "id": "dino-run",
+    "title": "T-Rex Dino Runner",
+    "description": "Jump over prickly cacti and duck under low-flying pterodactyls in this fast-paced prehistoric runner.",
+    "longDescription": "The legendary offline browser game, brought directly to your unblocked hub. Run across an endless retro desert as a pixelated Tyrannosaurus Rex. As the game speeds up, obstacles appear faster and more frequently. Jump over obstacles and duck under flying pterosaurs to score maximum distance points.",
+    "controls": [
+      { "key": "Up Arrow / Spacebar", "action": "Jump up over obstacles" },
+      { "key": "Down Arrow", "action": "Duck under flying reptiles" },
+      { "key": "Enter", "action": "Restart on Game Over" }
+    ],
+    "category": "Arcade",
+    "iframeUrl": "https://wayou.github.io/t-rex-runner/",
+    "themeColor": "from-neutral-500 to-neutral-700",
+    "glowColor": "rgba(115, 115, 115, 0.4)",
+    "difficulty": "Easy",
+    "iconName": "Zap",
+    "rating": 4.6,
+    "releaseYear": 2014
+  },
+  {
+    "id": "astray",
+    "title": "Astray 3D Maze",
+    "description": "Roll a glowing ball through a dark, complex 3D maze in search of the glowing blue exit portal.",
+    "longDescription": "Astray is a stunning, WebGL-powered 3D physics game. Control a sphere as you navigate narrow paths, dead ends, and winding stone corridors in a floating labyrinth. The atmosphere is quiet, moody, and highly immersive. Find the glowing column of blue light to escape the maze and advance to the next level.",
+    "controls": [
+      { "key": "Arrow Keys / WASD", "action": "Roll the ball / Navigate maze" },
+      { "key": "Spacebar", "action": "Jump over small obstacles" }
+    ],
+    "category": "Action",
+    "iframeUrl": "https://borismus.github.io/astray/",
+    "themeColor": "from-cyan-500 to-blue-600",
+    "glowColor": "rgba(6, 182, 212, 0.4)",
+    "difficulty": "Medium",
+    "iconName": "Orbit",
+    "rating": 4.8,
+    "releaseYear": 2012
+  },
+  {
+    "id": "towerblocks",
+    "title": "Tower Blocks",
+    "description": "Stack hanging skyscraper blocks on top of each other. Balance your tower carefully as it sways!",
+    "longDescription": "A charming, precision-based balancing game. Skyscraper sections sway back and forth on a cable above your tower. Time your release perfectly so each block lands squarely on the one below. A off-center drop will cause your tower to sway precariously, making future blocks much harder to stack without collapsing!",
+    "controls": [
+      { "key": "Spacebar / Mouse Click", "action": "Drop the hanging block" },
+      { "key": "R", "action": "Quick reset" }
+    ],
+    "category": "Strategy",
+    "iframeUrl": "https://steven-sarasin.github.io/tower-blocks/",
+    "themeColor": "from-pink-500 to-rose-600",
+    "glowColor": "rgba(236, 72, 153, 0.4)",
+    "difficulty": "Medium",
+    "iconName": "Layers",
+    "rating": 4.7,
+    "releaseYear": 2018
+  },
+  {
+    "id": "breakout",
+    "title": "Retro Breakout",
+    "description": "Bounce the ball to smash colorful brick rows. Don't let the ball fall past your responsive paddle!",
+    "longDescription": "A beautiful, self-contained implementation of the foundational Atari arcade classic, Breakout. Command a slide-paddle at the bottom of the screen to redirect a bouncing ball upwards. Obliterate tiers of multicolored brick walls, earning score multipliers and trying to clear the entire screen with your three remaining lives.",
+    "controls": [
+      { "key": "Mouse / Move Finger", "action": "Slide paddle left or right" },
+      { "key": "Left / Right Arrows", "action": "Move paddle left or right" },
+      { "key": "Spacebar", "action": "Launch ball / Resume play" }
+    ],
+    "category": "Retro",
+    "iframeUrl": "https://codepo8.github.io/canvas-breakout/",
+    "themeColor": "from-red-400 to-orange-500",
+    "glowColor": "rgba(239, 68, 68, 0.4)",
+    "difficulty": "Easy",
+    "iconName": "Gamepad2",
+    "rating": 4.4,
+    "releaseYear": 1976
+  }
+]
